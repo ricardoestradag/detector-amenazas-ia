@@ -8,7 +8,7 @@ tiempo real.
 
 ## Lo que hace
 - Lee logs de eventos del sistema operativo
-- Analiza cada evento con IA (OpenAI GPT-4o-mini)
+- Analiza cada evento con IA 
 - Clasifica amenazas: CRÍTICO / ALTO / MEDIO / BAJO / NORMAL
 - Genera reporte HTML visual con resumen ejecutivo
 
