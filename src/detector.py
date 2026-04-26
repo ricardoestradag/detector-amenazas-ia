@@ -1,4 +1,4 @@
-# Archivo: src/detector.py
+
 
 import json
 import time
