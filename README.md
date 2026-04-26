@@ -1,5 +1,7 @@
 # Detector de Amenazas con IA
 
+![Demo del detector](assets/demo.png)
+
 Herramienta de ciberseguridad que analiza logs del sistema 
 usando Groq LLaMA 3.1 para detectar y clasificar amenazas en 
 tiempo real.
