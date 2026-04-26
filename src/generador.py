@@ -1,6 +1,3 @@
-# Archivo: src/generador.py
-# Este script genera logs de prueba con ataques simulados
-
 import random
 from datetime import datetime, timedelta
 
