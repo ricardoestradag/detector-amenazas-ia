@@ -1,4 +1,3 @@
-# Archivo: src/reporte_html.py
 
 import json
 from datetime import datetime
